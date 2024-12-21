@@ -1,0 +1,12 @@
+h1 {
+  font-family: var(--font5);
+  font-size: 128px;
+  margin-bottom: 20vh;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+}
